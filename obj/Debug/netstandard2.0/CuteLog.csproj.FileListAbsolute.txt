@@ -1,0 +1,9 @@
+C:\Users\Christopher\source\repos\CuteLog\bin\Debug\netstandard2.0\CuteLog.deps.json
+C:\Users\Christopher\source\repos\CuteLog\bin\Debug\netstandard2.0\CuteLog.dll
+C:\Users\Christopher\source\repos\CuteLog\bin\Debug\netstandard2.0\CuteLog.pdb
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.AssemblyInfoInputs.cache
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.AssemblyInfo.cs
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.dll
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.pdb
+C:\Users\Christopher\source\repos\CuteLog\obj\Debug\netstandard2.0\CuteLog.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Christopher Govender</Authors>
+    <Description>Small Powerful Error Logging</Description>
+    <PackageTags>error logging</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://bitbucket.org/christopherie/cutelog/src/master/</RepositoryUrl>
+    <PackageProjectUrl>https://bitbucket.org/christopherie/cutelog/src/master/</PackageProjectUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.6.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />  
+  </ItemGroup>
+  <ItemGroup>
+   <None Include="readme.txt" pack="true" PackagePath="." />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CuteLog</id>
+    <version>1.0.1</version>
+    <authors>Christopher Govender</authors>
+    <owners>Christopher Govender</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://bitbucket.org/christopherie/cutelog/src/master/</projectUrl>
+    <description>Small Powerful Error Logging</description>
+    <tags>error logging</tags>
+    <repository url="https://bitbucket.org/christopherie/cutelog/src/master/" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.6.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Christopher\source\repos\CuteLog\bin\Debug\netstandard2.0\CuteLog.dll" target="lib\netstandard2.0\CuteLog.dll" />
+    <file src="C:\Users\Christopher\source\repos\CuteLog\readme.txt" target=".\readme.txt" />
+  </files>
+</package>
